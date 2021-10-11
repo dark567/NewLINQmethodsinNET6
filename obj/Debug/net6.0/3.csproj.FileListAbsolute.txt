@@ -14,3 +14,4 @@ C:\temp\3\obj\Debug\net6.0\3.dll
 C:\temp\3\obj\Debug\net6.0\ref\3.dll
 C:\temp\3\obj\Debug\net6.0\3.pdb
 C:\temp\3\obj\Debug\net6.0\3.genruntimeconfig.cache
+C:\temp\3\bin\Debug\net6.0\GenFu.dll
